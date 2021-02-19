@@ -1,0 +1,13 @@
+Additions/Changes:
+- Removed Bubblegum texture
+
+Fixes:
+- Fixed Frozen Blaze Helmet texture not displaying correctly
+- Fixed Mender Crown texture issue
+- Fixed Mender Fedora texture issue
+- Fixed Minos Relic texture not displaying correctly
+- Fixed Promising Shovel texture not displaying correctly
+- Fixed Titanium texture overriding other textures in the Forge menu
+
+Notes:
+- 1.8.2 will actually have the texture updates

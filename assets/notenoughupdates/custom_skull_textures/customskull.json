@@ -1,0 +1,126 @@
+{
+	"18bb99e0-16d9-3b46-a412-b8b87d6847f5": 
+		{
+		"texture": "./bat_person_helmet"
+		},
+	"118fe834-28aa-3b0d-afe6-f0c52d01afe8": 
+		{
+		"texture": "./blaze_hat"
+		},
+	"67a04547-ae52-387e-9786-47949bdc74dc": 
+		{
+		"texture": "./blaze_helmet"
+		},
+	"5a27db2d-dcfe-38b5-8868-b1f536da5f0c": 
+		{
+		"texture": "./bonzo_mask"
+		},
+	"bc554a7a-507a-3ee7-809c-1820f86e1ceb": 
+		{
+		"texture": "./ember_helmet"
+		},
+	"23d38889-0bf4-3d03-9d1a-e2be0daf244b": 
+		{
+		"texture": "./ender_helmet"
+		},
+	"e9604568-dd39-3081-a5e2-541467b9d2db": 
+		{
+		"texture": "./frozen_blaze_helmet"
+		},
+	"7b5eba12-eea5-3b0f-968b-cf8578bee45b": 
+		{
+		"texture": "./goldor_helmet"
+		},
+	"881e59ef-cb3d-3ad7-bdab-ddf2520a6806": 
+		{
+		"texture": "./holy_dragon_helmet"
+		},
+	"ee05abe4-347b-3ea5-8248-fae93392140e": 
+		{
+		"texture": "./maxor_helmet"
+		},
+	"63fcdb3b-2514-3e8b-b259-3acfd4aad50a": 
+		{
+		"texture": "./mender_crown"
+		},
+	"57893e0f-a314-32fc-ab99-4c4e6cb20f07": 
+		{
+		"texture": "./mender_fedora"
+		},
+	"4a3fc537-0fd3-3e3a-ab1b-cc5b7ed581db": 
+		{
+		"texture": "./mender_helmet"
+		},
+	"cafa124e-da06-3b1a-b38e-f89824dcf2ab": 
+		{
+		"texture": "./mineral_helmet"
+		},
+	"16b91b55-02b7-3315-bd9a-7da8467e4a96": 
+		{
+		"texture": "./necron_helmet"
+		},
+	"53b0f579-fb7b-338f-a224-447fc7006b41": 
+		{
+		"texture": "./old_dragon_helmet"
+		},
+	"78aecd0f-e1ad-3b10-b74f-c991afb8ea1d": 
+		{
+		"texture": "./precursor_eye"
+		},
+	"3b0f53e5-0eae-321a-ba65-fa653ee97064": 
+		{
+		"texture": "./protector_dragon_helmet"
+		},
+	"8c29f21d-0af3-324e-982b-dca5c7659bc4": 
+		{
+		"texture": "./shadow_assassin_helmet"
+		},
+	"bafabf7d-16e6-32fb-9720-812419bacc73": 
+		{
+		"texture": "./shark_scale_helmet"
+		},	
+	"848130dc-9c46-3818-a099-b429cb2f1d75": 
+		{
+		"texture": "./sniper_helmet"
+		},
+	"564f289a-f6ef-31a7-83d2-bce309d814f8": 
+		{
+		"texture": "./snow_suit_helmet"
+		},
+	"a3552cdc-39ab-3f9f-9373-61c035f61b7d": 
+		{
+		"texture": "./storm_helmet"
+		},	
+	"c671b34e-b143-30f3-b66d-5311f48fefc6": 
+		{
+		"texture": "./strong_dragon_helmet"
+		},
+	"f69ba621-a8b6-31a7-8de1-dc7ade140e1d": 
+		{
+		"texture": "./superior_dragon_helmet"
+		},
+	"8584e5d0-47fc-388b-b3c8-f89a62f375bf": 
+		{
+		"texture": "./unstable_dragon_helmet"
+		},
+	"33f37f6f-40aa-3fc0-bcf7-b2635f3f66d0": 
+		{
+		"texture": "./water_hydra_head"
+		},
+	"b3c79a6a-103a-33cf-8ae2-579722654939": 
+		{
+		"texture": "./wise_dragon_helmet"
+		},
+	"a289c858-9ac5-3b6c-b621-beb934129a37": 
+		{
+		"texture": "./witch_mask"
+		},
+	"cf225c71-a676-30a0-90da-75907b9a99d0": 
+		{
+		"texture": "./wither_helmet"
+		},
+	"68fdf966-47cb-328e-a195-c6f154127cd9": 
+		{
+		"texture": "./young_dragon_helmet"
+		}
+}

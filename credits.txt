@@ -1,0 +1,20 @@
+Main Credit:
+All assets made by MotorGorilla
+Some assets are based off of Minecraft's default textures, made by JAPPA/Mojang Studios
+Edible Mace done by Squarticus
+Mithril CET done by Nacrt
+Some inspiration is taken from other Skyblock resource packs, mainly Packs HQ (hi 8k)
+
+Pack Compatibility:
+SkyblockAddons: https://github.com/BiscuitDevelopment/SkyblockAddons/releases (GUI)
+NotEnoughUpdates: https://github.com/Moulberry/NotEnoughUpdates/releases (GUI)
+SBCustomMobTex: https://github.com/Moulberry/SBCustomMobTex/releases (MOBS)
+
+Additional Credit:
+Font used in pack.png: https://www.1001fonts.com/fff-forward-font.html
+Thank you to the people at PacksHQ for help on textures
+
+Please do not redistribute without permission!
+
+
+
