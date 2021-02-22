@@ -24,7 +24,15 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          path: repo
 
       # Runs a single command using the runners shell
       - name: Zip repo
-        run: zip assets pack.png pack.mcmeta ActuallyAssets.zip
+        run: zip -r repo.zip repo
+        
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2.2.2
+        with:
+          name: artifacts
+          path: repo.zip
