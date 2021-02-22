@@ -29,7 +29,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Zip repo
-        run: zip -r repo.zip repo -x '*.git*'
+        run: zip -r repo.zip repo/* -x '*.git*'
         
       - name: Upload artifact
         uses: actions/upload-artifact@v2.2.2
