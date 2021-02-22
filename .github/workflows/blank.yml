@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Zip repo
-        run: zip .
+        run: zip assets pack.png pack.mcmeta ActuallyAssets.zip
